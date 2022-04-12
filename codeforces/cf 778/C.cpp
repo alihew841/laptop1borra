@@ -20,6 +20,7 @@ int main() {
 
         for(int i=0;i<n;i++){
             cout<<a[i]<<"\n "[i+1<n];
+            ///cout<<0<<"\n";
         }
     }
     exit(0);
