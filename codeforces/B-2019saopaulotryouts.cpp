@@ -14,7 +14,7 @@ int main(){
     int C[3],M[3],Y[3],K[3]; 
 
     int c,m,y,k;
-    
+    ///sdasdadsa
     while(t--){
         c=m=y=k=1000001;
         for(int i=0;i<3;i++){
